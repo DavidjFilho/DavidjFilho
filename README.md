@@ -14,8 +14,8 @@
     
 <p/>
 <div align="center">  
-  <img width="85%" style="margin:3rem 0; height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidjFilho&layout=compact&theme=radical" alt="David Filho" />
-  <img width="85%" style="margin:3rem 0; height="250px" style="margin-top:4rem;" src="https://github-readme-stats.vercel.app/api?username=DavidjFilho&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Lurique Pro" />
+  <img width="55%" style="margin:3rem 0; height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidjFilho&layout=compact&theme=radical" alt="David Filho" />
+  <img width="55%" style="margin:3rem 0; height="250px" style="margin-top:4rem;" src="https://github-readme-stats.vercel.app/api?username=DavidjFilho&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Lurique Pro" />
 </div>
 
 ### Front-End:
