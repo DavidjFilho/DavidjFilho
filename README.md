@@ -48,6 +48,6 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/luriquePro/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/DavidjFilho/count.svg" /></p> 
 <br>
 </div>
